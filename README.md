@@ -2,7 +2,7 @@
   <br /><br /><br />
   <img src="tachyon_logo_horizontal.png" style="width: 50%;">
   <br /><br /><br />
-</div>
+</div> 
 
 ## Overview
 
